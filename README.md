@@ -19,6 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 </p>
 
+## Contato
+Discord: paulodevz 
+Email: embreve
+
 ---
 
 ## GitHub Stats
