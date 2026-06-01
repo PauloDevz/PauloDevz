@@ -19,16 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 </p>
 
-## Projetos
-
-### Syntax
-
-<img src="https://imgur.com/a/Dk0umKl" alt="Syntax" width="300"/>
-
-Um servidor de discord
-
-[View Project](tes)
-
 ---
 
 ## GitHub Stats
