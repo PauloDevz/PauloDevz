@@ -5,6 +5,7 @@
 - Aprendendo Inglês 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
 - Desenvolvedor de: Crystal Bot, MixMusic, Syntax e Syntax Api 💼.
 - Brasileiro Com Orgulho 🇧🇷.
+- Moderando Comunidades em Discord 🏡.
 
 ## Habilidades
 
