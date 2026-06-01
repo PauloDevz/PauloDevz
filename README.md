@@ -1,9 +1,12 @@
 # Oii 👋, Sou Paulo Devz
 ### Code Is My Love
 
-Um desenvolvedor qualquer 🤷.
+- Um desenvolvedor qualquer 🤷.
+- Aprendendo Inglês 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
+- Desenvolvedor de: Crystal Bot, MixMusic, Syntax e Syntax Api 💼.
+- Brasileiro Com Orgulho 🇧🇷.
 
-## Skills
+## Habilidades
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
@@ -16,7 +19,7 @@ Um desenvolvedor qualquer 🤷.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 </p>
 
-## Projects
+## Projetos
 
 ### Syntax
 
