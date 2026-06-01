@@ -23,7 +23,7 @@
 
 ### Syntax
 
-<img src="https://github.com/paulodevz.png" alt="Syntax" width="300"/>
+<img src="https://ibb.co/v4hDgpXk" alt="Syntax" width="300"/>
 
 Um servidor de discord
 
