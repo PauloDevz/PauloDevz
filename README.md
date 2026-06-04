@@ -21,9 +21,8 @@
 </p>
 
 ## Contato
-Discord: paulodevz 
-
-Email: embreve
+- Discord: paulodevz 
+- Email: embreve
 
 ---
 
