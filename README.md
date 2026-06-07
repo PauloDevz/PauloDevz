@@ -3,7 +3,6 @@
 
 - Um desenvolvedor qualquer 🤷.
 - Aprendendo Inglês 🏴󠁧󠁢󠁥󠁮󠁧󠁿.
-- Desenvolvedor de: Crystal Bot, MixMusic, Syntax e Syntax Api 💼.
 - Brasileiro Com Orgulho 🇧🇷.
 - Moderando Comunidades em Discord 🏡.
 
@@ -23,6 +22,17 @@
 ## Contato
 - Discord: paulodevz 
 - Email: embreve
+
+## Projetos
+- 💚 Kael
+• Um bot de jogos no Discord.
+
+- 🎧 MixMusic
+• Um bot de música.
+
+- 💙 Syntax
+• Um servidor de programação.
+
 
 ---
 
