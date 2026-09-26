@@ -24,15 +24,8 @@
 - Email: embreve
 
 ## Projetos
-- 💚 Kael
-• Um bot de jogos no Discord.
-
-- 🎧 MixMusic
-• Um bot de música.
-
-- 💙 Syntax
-• Um servidor de programação.
-
+- ?????
+• ???
 
 ---
 
