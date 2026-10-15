@@ -24,8 +24,10 @@
 - Email: embreve
 
 ## Projetos
-- ?????
-• ???
+- Necravox
+• Um bot completo e multifuncional para Discord abrangendo tickets, economia, moderação e etc.
+- Comunidade de Suporte:
+- Adicione:
 
 ---
 
