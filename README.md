@@ -29,9 +29,11 @@
 - Comunidade de Suporte:
 - Adicione:
 
+---
+
 - MixMusic
-- Em Desenvolvimento
-- Status: [![Status do MixMusic](https://nexushost.cloud/public/badge/mixmusic/status.svg?id=UM5KAhdKOOh5cF55evEiVJbMjQv4tqVkqRnAN2jMNQg1sHPuppowYNInbXw)](https://nexushost.cloud/status/mixmusic?id=UM5KAhdKOOh5cF55evEiVJbMjQv4tqVkqRnAN2jMNQg1sHPuppowYNInbXw)
+- Em Desenvolvimento 
+
 ---
 
 ## GitHub Stats
