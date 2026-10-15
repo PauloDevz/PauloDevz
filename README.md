@@ -25,10 +25,13 @@
 
 ## Projetos
 - Necravox
-• Um bot completo e multifuncional para Discord abrangendo tickets, economia, moderação e etc.
+- Um bot completo e multifuncional para discord abrangendo tickets, economia, moderação e etc.
 - Comunidade de Suporte:
 - Adicione:
 
+- MixMusic
+- Em Desenvolvimento
+- Status: [![Status do MixMusic](https://nexushost.cloud/public/badge/mixmusic/status.svg?id=UM5KAhdKOOh5cF55evEiVJbMjQv4tqVkqRnAN2jMNQg1sHPuppowYNInbXw)](https://nexushost.cloud/status/mixmusic?id=UM5KAhdKOOh5cF55evEiVJbMjQv4tqVkqRnAN2jMNQg1sHPuppowYNInbXw)
 ---
 
 ## GitHub Stats
